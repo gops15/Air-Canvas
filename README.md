@@ -48,9 +48,9 @@ pip3 install opencv-python
 <img src="Images/FinalOutput.png" width=100% height=100%/>
 
 ---
-@author: [aabir13]
+
 
 [Python]:<https://www.python.org/>
 [OpenCV]:<https://opencv.org/>
 [NumPy]:<https://numpy.org/>
-[aabir13]:<https://github.com/aabir13>
+
